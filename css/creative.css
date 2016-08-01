@@ -218,3 +218,17 @@ img::-moz-selection {
 opacity: 0.7;
  display:none;
 	}
+	
+	.tigcenter
+	{
+		margin: auto;
+		text-align: center;
+		width: 60%;
+		padding-bottom: 19%;
+	}
+	
+	.padbottom
+	{
+		padding-bottom:1%;
+	}
+	
